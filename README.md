@@ -1,4 +1,3 @@
-# Clemi05
 <h1 align="center">Hi 👋, I'm Clément Azalbert or Clémi</h1>
 <h3 align="center">I am a passionate fullstack developer from Paris. I just graduated from the web development bootcamp: Le Wagon. I am curious, patient and creative. Expect coding, I love rugby, cooking and animals (especially my dog and my cat).</h3>
 
