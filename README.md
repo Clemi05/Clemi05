@@ -2,13 +2,14 @@
 <h3>I am a passionate fullstack developer from Paris. I just graduated from the web development bootcamp: Le Wagon. I am curious, patient and creative. Expect coding, I love rugby, cooking and animals (especially my dog and my cat).</h3>
 
 - 🔭 I’m currently working **on some frontendMentors.io projects and Codecademy path to develop my skills in Javascript and React.**
-
 - 🌱 I’m currently learning **Ruby on Rails, Ruby and JavaScript**.
 - 📫 You can reach me at **clementazalbert04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/clément azalbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="clément azalbert" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/clément azalbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="clément azalbert" height="30" width="40" /></a>
+    <a href="https://codepen.io/@clemiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@clemiiii" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/clémi04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="clémi04" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
