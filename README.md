@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/clément azalbert" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="clément azalbert" height="30" width="40" /></a>
-    <a href="https://codepen.io/@clemiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@clemiiii" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/clémi04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="clémi04" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/clement-azalbert/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="clément azalbert" height="30" width="40" /></a>
+    <a href="https://codepen.io/Clemiiii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@clemiiii" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/16994179/cl%c3%a9mi04?tab=profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="clémi04" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
