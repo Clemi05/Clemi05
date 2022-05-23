@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Clément Azalbert or Clémi</h1>
 <h3>I am a passionate and motivated fullstack developer from Paris. I just graduated from the web development bootcamp: Le Wagon. I am  a curious, patient and fast-learner person. Expect coding, I love rugby, cooking and animals (especially my dog and my cat).</h3>
 
-- 🔭 I’m currently working **on some projects and Codecademy path to develop my skills in Javascript and React.**
-- 🌱 I’m currently learning **Ruby on Rails, Ruby and JavaScript**.
+- 🔭 I’m currently working **on some projects and Codecademy path to develop my skills in Java, Javascript and React.**
+- 🌱 I’m currently learning **Java, JavaScript and React**.
 - 📫 You can reach me at **clementazalbert04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
